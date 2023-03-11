@@ -5,3 +5,8 @@ Este es el primer archivo de este tuto/lab de git
 
 Esta es una línea añadida mientras el archivo está en la Stage Area, ya "añadido" con git add, para ver como se comporta git
 al editar un archivo en el working area que ya estaba añadido. Guardo estos cambios y vemos qué pasa. 
+
+
+###########
+
+Agregando cosas a archivo1 despues de hacer un commit
