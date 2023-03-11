@@ -1,0 +1,16 @@
+###         Este es el segundo archivo que pasaremos a Stage Area y luego lo comprometeremos, haremos un commit
+
+
+Para empezar un proyecto con GIT:
+
+1.- Creamos un directorio de trabajo con el nombre que queramos
+2.- Nos metemos en él
+3.- Hacemos la configuración global de git:
+	$  git config --global user.name "Valentín Soliño"
+	$  git config --global user.email valentinsolino@gmail.com
+4.- Inicializamos git desde el directorio que queramos convertir en nuestro working directory de proyecto.
+	$  git init
+Git genera en este directorio uno oculto llamado .git, dentro están los archivos que git necesita y usa por debajo.
+
+
+########    Listo, ya podemos empezar a copiar o crear archivos en ese directorio y git les hará el seguimiento oportuno.    
