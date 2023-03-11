@@ -14,3 +14,8 @@ Git genera en este directorio uno oculto llamado .git, dentro están los archivo
 
 
 ########    Listo, ya podemos empezar a copiar o crear archivos en ese directorio y git les hará el seguimiento oportuno.    
+
+
+#################
+ probando ahora git diff
+
